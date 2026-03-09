@@ -17,7 +17,7 @@
 
 ## 👋 Sobre mí
 
-Soy psicólogo con formación certificada en análisis de datos (**Datadata**), en transición activa hacia el mundo del Business Intelligence.
+Soy psicólogo con formación certificada en análisis de datos (**Datdata**), en transición activa hacia el mundo del Business Intelligence.
 
 Mi background en psicología me da algo que no se aprende solo con código: la capacidad de **entender el comportamiento humano detrás de cada número** y comunicar hallazgos de forma clara a cualquier audiencia.
 
@@ -41,7 +41,7 @@ Actualmente construyo proyectos reales con datos públicos para demostrar mis ha
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Nivel actual — siendo honesto:**
+**Nivel actual:**
 
 | Herramienta | Nivel | Notas |
 |---|---|---|
