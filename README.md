@@ -9,7 +9,7 @@
 *Construyendo soluciones BI con SQL Server, Power BI y Excel*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-velasco)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/joseph-velasco-data-analyst/inicio?authuser=0)
 
 </div>
 
