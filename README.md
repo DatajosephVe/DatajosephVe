@@ -107,3 +107,20 @@ Vengo de la psicología — eso significa que sé hacer algo que muchos analista
 **explicar los datos de forma que cualquier persona los entienda.**
 
 Los números solo generan valor cuando alguien los puede usar para tomar decisiones.
+
+---
+
+<div align="center">
+
+## 🤝 Conectemos
+
+*Si buscas un analista que aporte una visión crítica y humana a tus datos, hablemos.*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📩_Correo-D14836?style=for-the-badge)](mailto:josephvelasco2223@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/joseph-velasco)
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-0B2545?style=for-the-badge)](https://sites.google.com/view/joseph-velasco-data-analyst/inicio)
+[![CV](https://img.shields.io/badge/📄_Descargar_CV-134074?style=for-the-badge)](https://drive.google.com/file/d/12b6fu9ykucFDR12LD1fb1w6snUsg3mf5/view?usp=drive_link)
+
+</div>
