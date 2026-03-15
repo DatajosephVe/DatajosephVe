@@ -71,7 +71,7 @@ Desde el modelado relacional en SQL Server hasta el dashboard interactivo en Pow
 `+100K órdenes` · `$8.7M en ventas` · `90.8% SLA` · `4.09/5.00 satisfacción`
 
 [![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DatajosephVe/Brz-Ecommerce-Analytics)
-[![Ver Reporte](https://img.shields.io/badge/Ver_Reporte_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYWRkZDZmNWQtZmM1Ni00OTlhLTllMmMtMzMwMjBlYjRkMTg2IiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9)
+[![Ver Reporte](https://img.shields.io/badge/Ver_Reporte_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYWRkZDZmNWQtZmM1Ni00OTlhLTllMmMtMzMwMjBlYjRkMTg2IiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9&pageName=7a6c62f682e264b660a5)
 
 ---
 
