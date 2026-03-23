@@ -1,10 +1,7 @@
 <div align="center">
 
-<<<<<<< HEAD
+
 <img src="./photo.png" alt="Joseph Velasco" width="200" style="border-radius:50%"/>
-=======
-<img src="./photo.jpg" alt="Joseph Velasco" width="200" style="border-radius:50%;"/>
->>>>>>> b9adc6f666127ee49f6722e5ebd936844f073d5e
 
 # Joseph Velasco
 ### Data Analyst Jr.
