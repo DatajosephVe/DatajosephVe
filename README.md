@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./photo.png" alt="Joseph Velasco" width="210"/>
+<img src="./photo.jpg" alt="Joseph Velasco" width="210"/>
 
 # Joseph Velasco
 ### Data Analyst Jr.
